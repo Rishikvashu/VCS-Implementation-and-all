@@ -10,7 +10,6 @@
 | ---------- | -------------- | ----------- | ------------------- | --------------- | --------------- | --------------- |
 | Vashishtha Prakash | 09-09-2026        | v1.3   | 24-10-2026 | Sunny/Shubham | Shreya/Nikita | Piyush Upadhyay         |
 
-https://docs.google.com/spreadsheets/d/1jYdaYWjUf_YVKgoMxzXE5a_yq9tz6LkTHMnSrxOjIkU/edit?gid=0#gid=0
 ---
 
 ## Table of Contents
@@ -33,6 +32,7 @@ https://docs.google.com/spreadsheets/d/1jYdaYWjUf_YVKgoMxzXE5a_yq9tz6LkTHMnSrxOj
 
 In this document, we compare four GitOps tools: **Argo CD**, **Flux CD**, **Jenkins X** and **GitLab GitOps**. The comparison covers project maturity, architecture, CI/CD fit, GitOps capabilities, and security and operations. Based on the comparison, one tool is recommended at the end. All information reflects the state of the projects as of October 2026.
 
+## https://docs.google.com/spreadsheets/d/1jYdaYWjUf_YVKgoMxzXE5a_yq9tz6LkTHMnSrxOjIkU/edit?gid=0#gid=0
 ---
 
 # 2. GitOps Tools Evaluation
